@@ -4,6 +4,13 @@ Brockman Representation Of Chromatin by K-mers in Mark-Associated Nucleotides
 
 ## Installation
 
+Several resources that may be useful were included in the installation, including Nextera adapter sequences for use with read trimming, and hg19 K562 replication domains.  These can vary depending on how Brockman was installed, but you can find out where they are by doing the following:
+```
+$ source activate BrockmanEnv
+(BrockmanEnv) $ which brockman_pipeline
+~/.conda/envs/BrockmanEnv2/bin/brockman_pipeline
+```
+and so my resource files are here: `~/.conda/envs/BrockmanEnv2/etc/Brockman/Resources/`
 
 ## Usage
 
