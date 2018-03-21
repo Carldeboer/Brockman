@@ -1,5 +1,5 @@
 range=50 # range around the Tn5 insertion site for which DNA is scanned for k-mer content
-bowtieIndex="/home/unix/cgdeboer/genomes/human/hg19/Bowtie2Index" #index to use for alignment
+bowtieIndex="$HOME/genomes/human/hg19/Bowtie2Index" #index to use for alignment
 logDir="temp_brockman_files" #where to put temp files
 outDir="kmer_frequencies" #where to output results
 adapterFile="../Resources/NexteraPE-PE.fa" # Nextera adapter sequences for trimming adaptor sequences from reads
