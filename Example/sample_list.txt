@@ -1,0 +1,10 @@
+singles-BJ-well-96	Downloaded_fastQs/SRR1781314_1.fastq.gz	Downloaded_fastQs/SRR1781314_2.fastq.gz
+singles-BJ-well-95	Downloaded_fastQs/SRR1781313_1.fastq.gz	Downloaded_fastQs/SRR1781313_2.fastq.gz
+singles-BJ-well-94	Downloaded_fastQs/SRR1781312_1.fastq.gz	Downloaded_fastQs/SRR1781312_2.fastq.gz
+singles-BJ-well-93	Downloaded_fastQs/SRR1781311_1.fastq.gz	Downloaded_fastQs/SRR1781311_2.fastq.gz
+singles-BJ-well-92	Downloaded_fastQs/SRR1781310_1.fastq.gz	Downloaded_fastQs/SRR1781310_2.fastq.gz
+singles-BJ-well-91	Downloaded_fastQs/SRR1781309_1.fastq.gz	Downloaded_fastQs/SRR1781309_2.fastq.gz
+singles-BJ-well-90	Downloaded_fastQs/SRR1781308_1.fastq.gz	Downloaded_fastQs/SRR1781308_2.fastq.gz
+singles-BJ-well-89	Downloaded_fastQs/SRR1781307_1.fastq.gz	Downloaded_fastQs/SRR1781307_2.fastq.gz
+singles-BJ-well-88	Downloaded_fastQs/SRR1781306_1.fastq.gz	Downloaded_fastQs/SRR1781306_2.fastq.gz
+singles-BJ-well-87	Downloaded_fastQs/SRR1781305_1.fastq.gz	Downloaded_fastQs/SRR1781305_2.fastq.gz
